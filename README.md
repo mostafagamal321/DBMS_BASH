@@ -24,3 +24,7 @@ A lightweight **CLI-based Database Management System** built using **Bash script
 ---
 
 ##  Execution screenshots
+- Create database , Listing current database , droping database , connecting to database 
+<img width="1679" height="686" alt="image" src="https://github.com/user-attachments/assets/4223bd35-bb72-4dcf-8c42-86b375f859db" />
+
+
