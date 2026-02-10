@@ -13,7 +13,7 @@ A lightweight **CLI-based Database Management System** built using **Bash script
 - Drop a database
 - Exit
 
-###  TABLE MENU
+###  Table Menu
 - Create New tables ( store table meta data separately in 'meta' files )
 - Insert records with: Data type validation (`int`, `float`, `string`)  / primary key validation  & auto incrmental
 -  Update table records
