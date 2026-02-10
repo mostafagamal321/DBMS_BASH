@@ -1,7 +1,7 @@
 # DBMS_BASH
 
 A lightweight **CLI-based Database Management System** built using **Bash scripting**.  
-This project simulates core DBMS functionality using the Linux file system, allowing users to create and manage databases and tables without relying on a traditional DB engine.
+#### This project simulates core DBMS functionality using the Linux file system, allowing users to create and manage databases and tables without relying on a traditional DB engine.
 ---
 
 
