@@ -1,4 +1,4 @@
-<img width="951" height="664" alt="image" src="https://github.com/user-attachments/assets/9d87c2cc-7139-4521-9ca8-0514701bf348" /><img width="951" height="664" alt="image" src="https://github.com/user-attachments/assets/abace44f-71f3-44b9-b07d-7dea291db63b" /># DBMS_BASH
+# DBMS_BASH
 
 A lightweight **CLI-based Database Management System** built using **Bash scripting**.  
 #### This project simulates core DBMS functionality using the Linux file system, allowing users to create and manage databases and tables without relying on a traditional DB engine.
