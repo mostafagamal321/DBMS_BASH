@@ -1,4 +1,4 @@
-# DBMS_BASH
+<img width="951" height="664" alt="image" src="https://github.com/user-attachments/assets/9d87c2cc-7139-4521-9ca8-0514701bf348" /><img width="951" height="664" alt="image" src="https://github.com/user-attachments/assets/abace44f-71f3-44b9-b07d-7dea291db63b" /># DBMS_BASH
 
 A lightweight **CLI-based Database Management System** built using **Bash scripting**.  
 #### This project simulates core DBMS functionality using the Linux file system, allowing users to create and manage databases and tables without relying on a traditional DB engine.
@@ -24,7 +24,17 @@ A lightweight **CLI-based Database Management System** built using **Bash script
 ---
 
 ##  Execution screenshots
-- Create database , Listing current database , droping database , connecting to database 
-<img width="1679" height="686" alt="image" src="https://github.com/user-attachments/assets/4223bd35-bb72-4dcf-8c42-86b375f859db" />
+- Create database , Listing current database , droping database , connecting to database
+  <img width="917" height="535" alt="image" src="https://github.com/user-attachments/assets/ae97796f-6113-4cf6-9a56-d5c3f96aa489" />
 
+- create new table  , inserting into table ( with primary key constraint )
+  <img width="951" height="664" alt="image" src="https://github.com/user-attachments/assets/bbe7e097-6578-4711-9c14-4fba5c725f91" />
+- update table , selecting data from a table
+  <img width="798" height="933" alt="image" src="https://github.com/user-attachments/assets/75de0b3b-b541-43cc-aeec-02522f6fe3c4" />
+  - deleteing from a table , droping table
+    <img width="1069" height="802" alt="image" src="https://github.com/user-attachments/assets/fa5fc526-5809-4fca-9574-af4fc7badd45" />
+    <img width="450" height="350" alt="image" src="https://github.com/user-attachments/assets/386cc80c-8024-4a52-9323-8517bf7ec44d" />
+
+
+ 
 
