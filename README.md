@@ -23,4 +23,4 @@ This project simulates core DBMS functionality using the Linux file system, allo
 
 ---
 
-## 🗂 Project S
+##  Execution screenshots
